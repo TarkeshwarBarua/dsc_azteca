@@ -1,0 +1,9 @@
+python --version
+python3 --version
+pip show tensorflow
+pip uninstall tensorflow
+pip uninstall tensorflow-gpu
+pip cache purge
+pip install tensorflow
+python -m venv my_thesis_env
+pip install tensorflow
