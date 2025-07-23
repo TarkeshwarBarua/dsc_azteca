@@ -7,3 +7,8 @@ pip cache purge
 pip install tensorflow
 python -m venv my_thesis_env
 pip install tensorflow
+=============================
+git status
+git add .
+git commit -m "Upload Date on github repository"
+git push
