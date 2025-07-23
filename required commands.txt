@@ -15,3 +15,4 @@ git commit -m "Upload Date on github repository"
 git push
 ================================
 pip install --upgrade pip
+pip install --force-reinstall numpy==1.23.5
